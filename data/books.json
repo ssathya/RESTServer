@@ -1,6 +1,6 @@
 [
 	{
-		"id": 101,
+		"id": "101",
 		"name": "Rogue Lawyer",
 		"description": "Rogue Lawyer is a novel by John Grisham. ",
 		"price": 12.99,
@@ -8,7 +8,7 @@
 		"category_name": "Thriller"
 	},
 	{
-		"id": 102,
+		"id": "102",
 		"name": "The Girl on the Train",
 		"description": "The story is a first-person narrative told from the point of view of three women: Rachel, Anna, and Megan.",
 		"price": 11.22,
@@ -16,7 +16,7 @@
 		"category_name": "Mystery"
 	},
 	{
-		"id": 103,
+		"id": "103",
 		"name": "Morning Star",
 		"description": "Morning Star is a 2016 science fiction novel by American author Pierce Brown, the third in his Red Rising trilogy. Morning Star picks up as the lowborn Darrow escapes capture and resumes his campaign against the tyrannical Sovereign of the Society. ",
 		"price": 19.95,
@@ -24,7 +24,7 @@
 		"category_name": "Science finction"
 	},
 	{
-		"id": 104,
+		"id": "104",
 		"name": "Me Before You",
 		"description": "Me Before You is a romance novel written by Jojo Moyes. The book was first published on 5 January 2012 in Me Before You is a romance novel written by Jojo Moyes. The book was first published on 5 January 2012 in the United Kingdom.",
 		"price": 9.55,
@@ -32,7 +32,7 @@
 		"category_name": "Romance"
 	},
 	{
-		"id": 105,
+		"id": "105",
 		"name": "End of Watch",
 		"description": "End of Watch is the 55th novel by American writer Stephen King, the third volume of a trilogy focusing on Detective Bill Hodges, following Mr. Mercedes and Finders Keepers.",
 		"price": 7.5,
